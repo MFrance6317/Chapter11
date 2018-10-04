@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\mf145884\desktop\chapter11\tweleveints\tweleveints\source.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\mf145884\desktop\chapter11\tweleveints\tweleveints\source.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  TweleveInts.vcxproj -> C:\Users\mf145884\Desktop\Chapter11\TweleveInts\Debug\TweleveInts.exe
