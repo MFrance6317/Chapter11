@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\mf145884\desktop\chapter11\test scores\test scores\source.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\mf145884\desktop\chapter11\test scores\test scores\source.cpp(7): warning C4101: 'average': unreferenced local variable
+  Test scores.vcxproj -> C:\Users\mf145884\Desktop\Chapter11\Test scores\Debug\Test scores.exe
